@@ -1,0 +1,8 @@
+{
+  "name": "SignEcho - Real-Time Sign Language Translator",
+  "description": "A real-time application converting sign language gestures into speech using computer vision and generative AI.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
